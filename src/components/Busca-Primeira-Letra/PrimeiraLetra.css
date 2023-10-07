@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#botao-letra{
+    padding: 0 2.5px;
+    font-size: 1.5rem;
+    transition: .2s;
+}
+
+#botao-letra:hover{
+    font-size: 1.5rem;
+    background-color: rgba(0, 0, 0, .2);
+}
