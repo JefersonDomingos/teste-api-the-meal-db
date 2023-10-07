@@ -1,8 +1,16 @@
-# React + Vite
+# Meal API recipes React JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Sobre:
+<p> Este projeto é um teste técnico para uma vaga de estágio, resalto que ele não está totalmente finalizado!</p>
 
-Currently, two official plugins are available:
+## Tecnologias:
+- React JS
+- Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Layout:
+
+![Meal API recipes ](https://github.com/JefersonDomingos/teste-api-the-meal-db/blob/bfd92afa5445b3fd0377d19b3386b6e01b6723a2/public/layout.png)
+
+## Deploy:
+
+https://JefersonDomingos.github.io/teste-api-the-meal-db
